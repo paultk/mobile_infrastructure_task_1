@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SensorApplicatinThird</string>
+    <string name="sensor_reading_table">sensor_reading</string>
+</resources>
